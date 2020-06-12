@@ -15,6 +15,7 @@ class Dog {
     this.gender = gender
   }
   speak()
+
 }
 
 class Bird {
