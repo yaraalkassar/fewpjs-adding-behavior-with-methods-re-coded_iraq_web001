@@ -8,7 +8,7 @@ class Cat {
   speak()
 
 }
- 
+
 class Dog {
   constructor(name, gender){
     this.name = name
@@ -16,7 +16,7 @@ class Dog {
   }
   speak()
 }
- 
+
 class Bird {
   constructor(name, gender){
     this.name = name
