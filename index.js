@@ -18,6 +18,8 @@ class Dog {
     this.gender = gender
   }
   speak(){
+    return `${this.name} says woof!`
+
   }
 
 }
@@ -28,7 +30,6 @@ class Bird {
     this.gender = gender
   }
   speak(){
-    return `${this.name} says woof!`
   }
 
 }
